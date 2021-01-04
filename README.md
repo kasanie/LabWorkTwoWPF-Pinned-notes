@@ -7,3 +7,6 @@
 
 Пример работы программы:
 ![alt text](https://github.com/ssplant/LabWorkTwoWPF-Pinned-notes/blob/master/image.png "Пример работы программы")
+
+Моя программа:
+![alt text](https://github.com/ssplant/LabWorkTwoWPF-Pinned-notes/blob/master/Capture.PNG "Введенный текст при нажатии кнопки перемещается в правый блок")
